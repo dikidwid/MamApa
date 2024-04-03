@@ -19,6 +19,7 @@
 		3A2F75882BBA7A24003046C4 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2F75872BBA7A24003046C4 /* ProfileView.swift */; };
 		3A2F758A2BBA7A2F003046C4 /* CookbookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2F75892BBA7A2F003046C4 /* CookbookView.swift */; };
 		3A2F758C2BBAF46D003046C4 /* MealFilterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A2F758B2BBAF46D003046C4 /* MealFilterView.swift */; };
+		4C8C8F262BBDD3FE00CBA6C1 /* BackendLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C8C8F252BBDD3FE00CBA6C1 /* BackendLogic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		3A2F75872BBA7A24003046C4 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		3A2F75892BBA7A2F003046C4 /* CookbookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CookbookView.swift; sourceTree = "<group>"; };
 		3A2F758B2BBAF46D003046C4 /* MealFilterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MealFilterView.swift; sourceTree = "<group>"; };
+		4C8C8F252BBDD3FE00CBA6C1 /* BackendLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackendLogic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +69,7 @@
 		3A2F755A2BBA4882003046C4 /* MamApa */ = {
 			isa = PBXGroup;
 			children = (
+				4C8C8F252BBDD3FE00CBA6C1 /* BackendLogic.swift */,
 				3A1688542BBC01810096A911 /* SplashScreenView.swift */,
 				3A2F755B2BBA4882003046C4 /* MamApaApp.swift */,
 				3A2F75852BBA7548003046C4 /* MainView.swift */,
@@ -167,6 +170,7 @@
 				3A2F75882BBA7A24003046C4 /* ProfileView.swift in Sources */,
 				3A1688512BBBCF030096A911 /* Filter.swift in Sources */,
 				3A2F755C2BBA4882003046C4 /* MamApaApp.swift in Sources */,
+				4C8C8F262BBDD3FE00CBA6C1 /* BackendLogic.swift in Sources */,
 				3A2F758A2BBA7A2F003046C4 /* CookbookView.swift in Sources */,
 				3A2F758C2BBAF46D003046C4 /* MealFilterView.swift in Sources */,
 				3A1688552BBC01810096A911 /* SplashScreenView.swift in Sources */,
